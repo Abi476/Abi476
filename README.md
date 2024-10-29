@@ -2,12 +2,11 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif" align="center" height=" " width="800" />
 </div>
-<h3 align="center">an informatics management student at State Polytechnic Jember.</h3>
+<h3 align="center">an informatics management student at Jember State Polytechnic.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
 
 - 🦥 I’m currently **try something new**
-
-- 😼 Fun fact **I'm dinosaur**
+- 😼 Fun fact **I'm good dinosaur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
