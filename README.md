@@ -42,5 +42,5 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abi476&show_icons=true&locale=en&layout=compact" alt="abi476" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abi476&show_icons=true&locale=en" alt="abi476" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi476&show_icons=true&locale=en&layout=compact" alt="Abi476" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abi476&show_icons=true&locale=en" alt="Abi476" /></p>
