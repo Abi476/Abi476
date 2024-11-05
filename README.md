@@ -4,7 +4,7 @@
 <h3 align="center">Informatics Management Student at State Polytechnic Jember.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
 
-- 😼 My Name **Abi**
+- 🫡 My Name **Abi**
 - 🦥 I’m currently **try something new**
 - 😼 Fun fact **I'm good dinosaur**
 
@@ -38,6 +38,9 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
 
