@@ -1,10 +1,10 @@
-<h1 align="">Hi 🫡, I'm Abi</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif" align="center" height=" " width="800" />
 </div>
-<h3 align="center">an informatics management student at Jember State Polytechnic.</h3>
+<h3 align="center">Informatics Management Student at State Polytechnic Jember.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
 
+- 😼 My Name **Abi**
 - 🦥 I’m currently **try something new**
 - 😼 Fun fact **I'm good dinosaur**
 
@@ -41,8 +41,8 @@
   </a>
 </p>
 
+### Contributions Summary:
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi476&show_icons=true&locale=en&layout=compact" alt="Abi476" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abi476&show_icons=true&locale=en" alt="Abi476" /></p>
