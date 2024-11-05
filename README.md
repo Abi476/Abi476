@@ -51,7 +51,4 @@
 <h3 align="left">Language Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi476&show_icons=true&locale=en&layout=compact" alt="Abi476" /></p>
 
-
-<h3 align="left">Contribution Summary:</h3>
-
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
