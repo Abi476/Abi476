@@ -40,6 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi476&show_icons=true&locale=en&layout=compact" alt="Abi476" /></p>
