@@ -57,6 +57,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abi476&show_icons=true&locale=en" alt="Abi476" /></p>
 
 ###
-![snake_gif](https://github.com/Abi476/Abi476/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/Abi476/Abi476/blob/main/github-snake-dark.svg)
 
 
