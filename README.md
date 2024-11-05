@@ -4,6 +4,8 @@
 <h3 align="center">Informatics Management Student at State Polytechnic Jember.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
 
+<h3 align="left">About me:</h3>
+
 - 🫡 My Name **Abi Bayu Rafsanzhany**
 - 🦥 I’m currently **try something new**
 - 🦕 Fun fact **I'm good dinosaur**
@@ -46,12 +48,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
-
-### Contributions Summary:
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
-
+<h3 align="left">Language Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abi476&show_icons=true&locale=en&layout=compact" alt="Abi476" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abi476&show_icons=true&locale=en" alt="Abi476" /></p>
 
+<h3 align="left">Contribution Summary:</h3>
 
-
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
