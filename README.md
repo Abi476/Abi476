@@ -4,9 +4,9 @@
 <h3 align="center">Informatics Management Student at State Polytechnic Jember.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat" alt="abi476" /> </p>
 
-- 🫡 My Name **Abi**
+- 🫡 My Name **Abi Bayu Rafsanzhany**
 - 🦥 I’m currently **try something new**
-- 😼 Fun fact **I'm good dinosaur**
+- 🦕 Fun fact **I'm good dinosaur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
