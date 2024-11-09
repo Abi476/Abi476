@@ -126,7 +126,3 @@
     alt="Top languages"
   />
 </p>
-
-### Summary:
-
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
