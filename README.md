@@ -121,6 +121,14 @@
       height="40"
     />
   </a>
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"
+    alt="NetBeans"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 <h3 align="left">Languages Used:</h3>
@@ -131,5 +139,9 @@
   />
 </p>
 
+<h3 align="left">Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abi476&show_icons=true&locale=en" alt="Abi476" /></p>
+
 ### Summary:
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
+
