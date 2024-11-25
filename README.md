@@ -9,13 +9,6 @@
 
 <h3 align="center">Informatics Management Student at State Polytechnic Jember.</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=abi476&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</p>
-
 <h3 align="left">About me:</h3>
 <ul>
   <li>🫡 My Name: <strong>Abi Bayu Rafsanzhany</strong></li>
