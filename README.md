@@ -137,3 +137,6 @@
 
 ### Summary:
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abi476&theme=default)
+
+https://api.github.com/repos/Abi476/SIG/languages
+
