@@ -50,6 +50,7 @@
 </div>
 
 <div align="center">
+  🐍Snake game:
   
   ![snake gif](https://github.com/Abi476/Abi476/blob/output/github-snake-dark.svg)
 </div>
