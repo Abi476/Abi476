@@ -1,3 +1,9 @@
+<div align="left">
+
+  [![](https://visitcount.itsvg.in/api?id=Abi476&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif"
@@ -16,18 +22,11 @@
   <li>🦕 Fun fact: <strong>I'm a good dinosaur</strong></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/abbayur_" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
+<div align="center">
+  
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abbayur_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abibayur21@gmail.com)
+</div>
 <div align="center">
 
 # 💻 Tech Stack:  
@@ -50,7 +49,9 @@
 </div>
 
 <div align="center">
-  🐍Snake game:
+
+  # 🐍 Snake Game:
   
   ![snake gif](https://github.com/Abi476/Abi476/blob/output/github-snake-dark.svg)
 </div>
+
