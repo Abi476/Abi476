@@ -51,7 +51,6 @@
 <div align="center">
 
    # 🕹️ Pacman Game:
- Snake Game:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abi476/abi476/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abi476/abi476/output/pacman-contribution-graph.svg">
