@@ -13,13 +13,13 @@
   />
 </div>
 
-<h3 align="center">Informatics Management Student at State Polytechnic Jember.</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">About me:</h3>
 <ul>
   <li>🫡 My Name: <strong>Abi Bayu Rafsanzhany</strong></li>
   <li>🦥 I’m currently <strong>trying something new</strong></li>
-  <li>🦕 Fun fact: <strong>I'm a good dinosaur</strong></li>
+
 </ul>
 
 <div align="center">
