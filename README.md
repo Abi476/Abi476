@@ -55,7 +55,7 @@ mood: curious 🌱
 
 ---
 
-## 👾 Contribution Graph
+## 👾 Contribution Graph:
 
 <div align="center">
   <picture>
